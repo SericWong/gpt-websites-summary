@@ -8,8 +8,8 @@
 
 ### 🚀 快速访问入口
 
-- **ChatGPT 中文版入口**：[chat.aibox365.cn](https://chat.aibox365.cn)  
-- **ChatGPT 镜像网站入口**：[chatgpt 镜像](https://chat.write360.cn)
+- **ChatGPT 中文版入口**：[GPT 中文版](https://chat.aimirror123.com)  
+- **ChatGPT 镜像网站入口**：[chatgpt 镜像](https://www.chatgpt-mirrors.com/chatgpt)
 
 ## 🤔 ChatGPT 中文版是什么？
 
@@ -61,7 +61,7 @@
 
 ### 如何在国内无需翻墙使用 ChatGPT？
 
-通过我们推荐的镜像网站（如 [chat.aibox365.cn](https://chat.aibox365.cn)），您可以直接访问部署在国内服务器的 ChatGPT 中文版。这些站点提供与官方一致的 AI 体验，支持 GPT-4o、o1、o3 等最新模型，注册仅需手机号或邮箱，操作简单且高效。
+通过我们推荐的镜像网站（如 [智镜](https://chat.aimirror123.com)），您可以直接访问部署在国内服务器的 ChatGPT 中文版。这些站点提供与官方一致的 AI 体验，支持 GPT-4o、o1、o3 等最新模型，注册仅需手机号或邮箱，操作简单且高效。
 
 ### ChatGPT 中文版支持哪些 AI 模型？
 
